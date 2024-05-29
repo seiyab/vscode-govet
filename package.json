@@ -3,6 +3,7 @@
   "displayName": "VSCode go vet",
   "description": "run your vettool",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.89.0"
   },
